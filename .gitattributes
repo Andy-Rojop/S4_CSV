@@ -1,0 +1,3 @@
+# Conservar las fixtures exactamente como vienen (incluye fin de línea CRLF)
+data/*.csv -text
+data/*.pdf binary
